@@ -1,0 +1,5 @@
+#
+#Thu Aug 11 19:30:59 EDT 2016
+com.intel.core.target.selection="edison.local"
+com.intel.core.project.type.id="com.intel.iotdevkit.cdt.iotCDTNature"
+com.intel.core.project.description="IoT"
